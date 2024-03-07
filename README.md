@@ -1,7 +1,7 @@
 <p>Hi my name is Bekzod. I'm 14 years old.</p>
 <p>I'm .Net developer🧑‍💻</p>
 <p>At the moment I'm studying FronEnd : HTML, CSS, Bootstrap, JavaScript React.</p>
-<p>In future I want to work at big companies as Microsoft, Amazon, <epam> etc ↓</p><h3>AS FULL STACK DEVELOPER.</h3>
+<p>In future I want to work at big companies as Microsoft, Amazon, <epam> etc ↓</p><h3>AS FULL STACK-DEVELOPER.</h3>
 
 <!---
 bekzod28072009/bekzod28072009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
