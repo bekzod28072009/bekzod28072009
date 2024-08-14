@@ -1,7 +1,8 @@
-<p>Assalomu aleykum my name is Bekzod🧑‍💻. I'm 15 years old.</p>
-<p>I have already finished my .Net course after that I made a few real Back-End projects with my teacher.</p>
-<p><h2>Nowadays:</h2> I'm exploring Figma before JavaScript to built my own idea for my front-end project.</p>
-<p>In future I want to work at big companies as Microsoft, Amazon, Nvidia etc ↓</p><h3>AS FULL STACK-DEVELOPER.</h3>.
+<p>Assalomu aleykum my name is Bekzod🧑‍💻 I'm 15 years old.</p>
+<p>I'm back-end webDeveloper with experience more than 2 years. And I know proggraming languages like C++, C# DotNet.</p>
+<p><h2>Nowadays:</h2> I'm working at the big IT-compay.</p>
+<p>If you request to do web-site and also have a front-end developer I can do bach-end part of your startUp.</h3>.
+<h6>☎️For reference : +998 (97) 005-20-05.</h6>
 
 <!---
 bekzod28072009/bekzod28072009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
