@@ -1,7 +1,7 @@
 <p>Assalomu aleykum my name is Bekzod🧑‍💻 I'm 15 years old.</p>
 <p>I'm back-end webDeveloper with experience more than 2 years. And I know proggraming languages like C++, C# DotNet.</p>
 <p><h2>Nowadays:</h2> I'm working at the big IT-compay.</p>
-<p>If you request to do web-site and also have a front-end developer I can do bach-end part of your startUp.</h3>.
+<p>If you have a request to do web-site and also have a front-end developer I'm ready to work with you.</h3>.
 <h3>☎️For reference : +998 (97) 005-20-05.</h3>
 
 <!---
