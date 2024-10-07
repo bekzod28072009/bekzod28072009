@@ -1,7 +1,7 @@
 <p>Assalomu aleykum my name is Bekzod🧑‍💻 I'm 15 years old.</p>
 <p>I'm back-end webDeveloper with experience more than 2 years. And I know proggraming languages like C++, C# DotNet.</p>
-<p><h2>Plans:</h2></p>
-<p><h2>Nowadays:</h2> I'm working at the big IT-compay. As a back-end developer.</p>
+<p><h2>Plans:</h2> In future I want to work at popular IT-Companies as Mocrosoft, NVIDIA, Amazon etc.. <h5>AS FULLSTACK DEVELOPER. </h5></p>
+<p><h2>Nowadays:</h2> I'm working at IT-compay. As a back-end developer.</p>
 <p>If you have a request to do web-site and also have a front-end developer I'm ready to work with you.</h3>.
 <h3>☎️For reference : +998 (97) 005-20-05.</h3> 
 
