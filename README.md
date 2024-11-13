@@ -2,7 +2,7 @@
 <p>I'm back-end webDeveloper and I'm in this sphere more than 2 years. And I know proggraming languages like C++, C# DotNet.</p>
 <p><h2>Plans:</h2> In future I want to work at popular IT-Companies like Mocrosoft, NVIDIA, Amazon etc. <h5>AS FULLSTACK DEVELOPER. </h5></p>
 <p><h2>Nowadays:</h2> I'm working at IT-compay. As a back-end developer.</p>
-<p>If you have a request to do web-site and also have a front-end developer I'm ready to work with you.</h3>
+<p>If you have a request to do web-site call the number below👇.</h3>
 <h3>☎️For reference : +998 (97) 005-20-05.</h3>
 
 <!---
