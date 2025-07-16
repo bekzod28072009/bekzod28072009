@@ -1,9 +1,71 @@
-<p>Assalomu aleykum I'm 16 years old software engineer.</p>
-<p>I'm back-end webDeveloper and I'm in this sphere more than 3 years. And I know programing languages like C++, C# DotNet.</p>
-<p>If you have a request to do web-site call the number below👇 </h3>
-<h3>☎️For reference : +998 (97) 005-20-05.</h3> 
+<h1 align="center">Hi there 👋, I'm Bekzod Keldiyorov</h1>
+<h3 align="center">💻 Backend Software Engineer | .NET Enthusiast | Code Lover</h3>
 
-<!---
-bekzod28072009/bekzod28072009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧑‍💼 About Me
+
+- 🧒 **Age:** 16  
+- 💼 **Experience:** 3+ years in software development  
+- 🚀 **Projects:** Built & contributed to 3 real-world projects  
+- 🌟 **Focus Areas:** Backend APIs, Clean Architecture, UI/UX Communication  
+- 📍 **Location:** Uzbekistan 🇺🇿
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+- 📧 [Email](mailto:bekhzodkeldiyorov@gmail.com)  
+- 📱 Phone: +998 (97) 005-20-05  
+- 📸 [Instagram](https://instagram.com/keldiyorov.bz)  
+- 💬 [Telegram](https://t.me/devvnet)  
+- 🎮 Discord: `devnet_51908`
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bekzod28072009&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod28072009&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+## 🤝 Co-Authored Contributions
+
+I proudly contribute to open-source and team projects. You'll see commits like this in shared work:
+
+```bash
+Co-authored-by: Bekzod Keldiyorov <bekhzodkeldiyorov@gmail.com>
+```
+---
+
+## 💡 Fun Facts
+
+- 🎯 Currently diving deep into **Clean Architecture** and **Microservices**
+- 🌍 My dream is to build a powerful **educational tech platform**
+- 🧠 Favorite quote: *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bekzod28072009&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  💙 Thanks for stopping by! Let’s connect and code something cool!
+</p>
