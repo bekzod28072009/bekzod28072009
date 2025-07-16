@@ -60,7 +60,7 @@ Co-authored-by: Bekzod Keldiyorov <bekhzodkeldiyorov@gmail.com>
 ```
 ---
 
-## 💡 Fun Facts
+## 💡 Plans
 
 - 🎯 Currently diving deep into **Clean Architecture** and **Microservices**
 - 🌍 My dream is to build a powerful **educational tech platform**
