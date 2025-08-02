@@ -9,7 +9,7 @@
 - 💼 **Experience:** 3+ years in software development  
 - 🚀 **Projects:** Built & contributed to 3 real-world projects  
 - 🌟 **Focus Areas:** Backend APIs, Clean Architecture, UI/UX Communication  
-- 📍 **Location:** Uzbekistan, Tashkent
+- 📍 **Location:** Uzbekistan, Tashkent 
 
 ---
 
