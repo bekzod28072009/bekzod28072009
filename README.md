@@ -26,7 +26,7 @@
 
 ## 📫 Contact Me
 
-- 📧 [Email](mailto:bekhzodkeldiyorov@gmail.com)  
+- 📧 [Email](bekhzodkeldiyorov@gmail.com)  
 - 📱 Phone: +998 (97) 005-20-05  
 - 📸 [Instagram](https://instagram.com/keldiyorov.bz)  
 - 💬 [Telegram](https://t.me/devvnet)  
