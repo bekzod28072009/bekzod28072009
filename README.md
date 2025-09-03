@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Bekzod Keldiyorov</h1>
 <h3 align="center">💻 Backend Software Engineer | .NET Enthusiast | Code Lover</h3>
-
+ 
 ---
 
 ## 🧑‍💼 About Me
-
+ 
 - 🧒 **Age:** 16  
 - 💼 **Experience:** 3+ years in software development  
 - 🚀 **Projects:** Built & contributed to 3 real-world projects  
-- 🌟 **Focus Areas:** Backend APIs, Clean Architecture, UI/UX Communication  
+- 🌟 **Focus Areas:** Backend APIs, Clean Architecture, UI/UX Communication   
 - 📍 **Location:** Uzbekistan, Tashkent 
 
 ---
