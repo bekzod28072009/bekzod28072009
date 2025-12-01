@@ -11,7 +11,7 @@
 - 🌟 **Focus Areas:** Backend APIs, Clean Architecture, UI/UX Communication   
 - 📍 **Location:** Uzbekistan, Tashkent 
 
----
+--- 
 
 ## 🛠️ Tech Stack 
 
