@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bekzod Keldiyorov</h1>
-<h3 align="center">💻 Backend Software Engineer | .NET Enthusiast | Code Lover</h3>
+<h3 align="center">💻 Backend Software Engineer | .NET Enthusiast </h3>
  
 ---
 
