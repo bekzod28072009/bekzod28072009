@@ -29,7 +29,7 @@
 - 📱 Phone: +998 (88) 010-19-79  
 - 📸 [Instagram](https://instagram.com/keldiyorov.bz)  
 - 💬 [Telegram](https://t.me/keldiyorov_bz)  
-- 🎮 Discord: `devnet_51908`
+- 🎮 Discord: `devnet_51908` 
 
 ---
 
