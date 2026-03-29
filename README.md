@@ -36,8 +36,8 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bekzod28072009&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub stats" />
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bekzod28072009&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub stats" />
+</p> 
 
 ---
 
